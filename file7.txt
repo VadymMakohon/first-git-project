@@ -1,1 +1,1 @@
-Just another file in the root of th working directory
+Just another file in the root of th working directory and it was modified in the BR-3 branch as well.

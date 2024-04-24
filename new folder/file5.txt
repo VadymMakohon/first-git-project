@@ -1,3 +1,0 @@
-It is a new file in the new-files folder
-
-File5.txt was just changed
