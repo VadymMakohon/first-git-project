@@ -30,6 +30,5 @@ GitHub is a web-based platform built on top of Git that provides hosting for Git
 # GitHub Pages
 - [GitHub Pages Basics](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site): Learn how to create and publish a website using GitHub Pages, which allows you to host static content directly from your GitHub repositories.
 
-# Contributing
-
-If you have any suggestions, corrections, or additional resources to contribute, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
+# Contributors
+- [Vadym Makohon](https://github.com/VadymMakohon)
